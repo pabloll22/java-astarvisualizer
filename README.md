@@ -7,4 +7,3 @@ Busca el camino más corto desde un estado inicial al estado meta a través de u
 
 Tiene una sencilla interfaz que permite visualizar como funciona dicho algoritmo.
 
-Test
